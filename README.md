@@ -2,7 +2,8 @@
 Information Gathering Techiques
 
 # To perform information gathering techniques
-
+NAME : GURU PRASATH R
+REG NO: 212223040053
 
 # AIM:
 
@@ -25,13 +26,18 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 
 ### WHOIS-
-![Screenshot (189)](https://github.com/user-attachments/assets/ca032cd7-030d-4738-b68b-af9b27bea321)
+![Screenshot 2024-09-25 102822](https://github.com/user-attachments/assets/519e8d26-d734-413c-9dcf-f21ccb985fee)
+
+
 
 ### IP2LOCATION-
-![Screenshot 2024-09-25 083122](https://github.com/user-attachments/assets/04f81d62-28c2-4239-b404-6f1d71df6e70)
+![Screenshot 2024-09-25 101341](https://github.com/user-attachments/assets/448f985d-2a73-4db3-955e-78c15c9d363a)
+
+
 
 ### WEB ARCHIVE-
-![Screenshot 2024-09-25 083121](https://github.com/user-attachments/assets/b9c39dd4-96e4-4c9c-b518-07c58572b648)
+![Screenshot 2024-09-25 101412](https://github.com/user-attachments/assets/b25dfc34-9328-428a-b368-1a3fc4062ed8)
+
 
 ## WEBSERVER FINGERPRINTING:
 
@@ -39,24 +45,32 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![Screenshot 2024-09-25 083118](https://github.com/user-attachments/assets/af2e4d7c-ca8b-4a41-9618-7ee9a642d92b)
 
 ### NETCAT-
-![Screenshot 2024-09-25 083115](https://github.com/user-attachments/assets/b0630ac7-8115-480b-b418-40d20454674a)
+![Screenshot 2024-09-25 082416](https://github.com/user-attachments/assets/4aec0df8-f1e7-4ce4-8948-4e17a224a666)
+
 
 ### WHATWEB-
-![Screenshot 2024-09-25 083114](https://github.com/user-attachments/assets/414c4ae2-d486-4914-969b-a368f0b6fc03)
+![Screenshot 2024-09-25 082520](https://github.com/user-attachments/assets/b3e06c5b-3373-4eac-a502-22d802569a0b)
+
 
 ### PING-
-![Screenshot 2024-09-25 082905](https://github.com/user-attachments/assets/5f08bac8-16ba-4960-8382-18aad49f295d)
+![Screenshot 2024-09-25 082905](https://github.com/user-attachments/assets/1f531961-e5c7-46bc-8735-b09a84f917a9)
+
 
 
 ### ICMP TRACEROUTE-
-![Screenshot 2024-09-25 083113](https://github.com/user-attachments/assets/a3cb12f6-faa6-4e31-b321-1284129eb5bd)
+![Screenshot 2024-09-25 103922](https://github.com/user-attachments/assets/32092475-060c-405c-9c3f-f41bca0e9ffb)
+
+
+
 
 
 ### TCP TRACEROUTE-
-![Screenshot 2024-09-25 083119](https://github.com/user-attachments/assets/a067a677-3f51-450c-989d-78134bd790a7)
+![Screenshot 2024-09-25 085241](https://github.com/user-attachments/assets/55307d5f-0e50-469c-a167-7ef6ed2ba5b9)
+
 
 ### UDP TRACEROUTE-
-![Screenshot 2024-09-25 083120](https://github.com/user-attachments/assets/eb7b9534-f950-4024-a164-65950ec99149)
+![Screenshot 2024-09-25 085407](https://github.com/user-attachments/assets/cc735bdb-d910-4696-9987-0f5895d6dc95)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
